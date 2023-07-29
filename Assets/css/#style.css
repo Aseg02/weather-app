@@ -1,0 +1,48 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/*NavBar*/
+nav {
+	text-align: center;
+	caret-color: white !important;
+	font-size: 46px;
+	background-color: black;
+}
+
+.body > nav {
+	color: white ;
+}
+
+.bg-card {
+	width: auto;
+	height: 50rem;
+}
+
+/* Section Search*/
+#search-section {
+	background-color: rgb(240, 252, 252);
+}
+.button-primary {
+	color: blue;
+}
+
+/* Current City*/
+.city {
+	border: none;
+}
+.card-city {
+	border: none;
+}
+
+/* Forecast*/
+.cbforecast {
+	margin: 20px;
+}
+.main-container {
+	padding-bottom: 20px;
+}
+.row-blue {
+	background-color: blue (240, 252, 252);
+}
